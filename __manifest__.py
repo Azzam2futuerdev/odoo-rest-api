@@ -9,7 +9,7 @@
         Odoo REST API
     """,
 
-    'author': "Yezileli Ilomo",
+    'author': "Yezileli Ilomo, Azzam Alsharie",
     'website': "https://github.com/yezyilomo/odoo-rest-api",
 
     # Categories can be used to filter modules in modules listing
